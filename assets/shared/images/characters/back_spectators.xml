@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="back_spectators.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bop0000" x="0" y="0" width="1500" height="250" frameX="0" frameY="0" frameWidth="1500" frameHeight="250"/>
+	<SubTexture name="bop0001" x="0" y="250" width="1500" height="250" frameX="0" frameY="0" frameWidth="1500" frameHeight="250"/>
+	<SubTexture name="bop0002" x="0" y="250" width="1500" height="250" frameX="0" frameY="0" frameWidth="1500" frameHeight="250"/>
+	<SubTexture name="bop0003" x="0" y="250" width="1500" height="250" frameX="0" frameY="0" frameWidth="1500" frameHeight="250"/>
+	<SubTexture name="bop0004" x="0" y="500" width="1500" height="250" frameX="0" frameY="0" frameWidth="1500" frameHeight="250"/>
+	<SubTexture name="bop0005" x="0" y="500" width="1500" height="250" frameX="0" frameY="0" frameWidth="1500" frameHeight="250"/>
+	<SubTexture name="bop0006" x="0" y="500" width="1500" height="250" frameX="0" frameY="0" frameWidth="1500" frameHeight="250"/>
+	<SubTexture name="bop0007" x="0" y="500" width="1500" height="250" frameX="0" frameY="0" frameWidth="1500" frameHeight="250"/>
+	<SubTexture name="bop0008" x="0" y="250" width="1500" height="250" frameX="0" frameY="0" frameWidth="1500" frameHeight="250"/>
+
+</TextureAtlas>

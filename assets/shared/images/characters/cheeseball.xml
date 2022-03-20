@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cheeseBall.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+<SubTexture name="idle0001" x="126" y="34" width="908" height="780"/>
+<SubTexture name="idle0002" x="1034" y="34" width="908" height="780"/>
+<SubTexture name="idle0003" x="1942" y="34" width="908" height="780"/>
+<SubTexture name="idle0004" x="2850" y="34" width="908" height="780"/>
+<SubTexture name="right0001" x="80" y="1055" width="1046" height="816"/>
+<SubTexture name="right0002" x="1126" y="1055" width="1046" height="816"/>
+<SubTexture name="up0001" x="130" y="1929" width="927" height="890"/>
+<SubTexture name="up0002" x="1057" y="1929" width="927" height="890"/>
+<SubTexture name="down0001" x="204" y="2950" width="906" height="838"/>
+<SubTexture name="down0002" x="1110" y="2950" width="906" height="838"/>
+<SubTexture name="left0001" x="300" y="3896" width="1006" height="826"/>
+<SubTexture name="left0002" x="1306" y="3896" width="1006" height="826"/>
+</TextureAtlas>

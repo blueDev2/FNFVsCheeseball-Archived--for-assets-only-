@@ -1,0 +1,11 @@
+Music:Lunchbox
+Font:Pixel Arial 11 Bold
+Graphics:
+Box:weeb/pixelUI/dialogueBox-pixel,0,0,1.0
+Portraits:
+BF:Right,BLUE,Initial,weeb/bfPortrait,0,0,1.0
+Senpai:Left,BLACK,Initial,weeb/senpaiPortrait,0,0,1.0
+Dialogue:
+Senpai:Ah, a new fair maiden has come in search of true love!
+Senpai:A serenade between gentlemen shall decide where her beautiful heart shall reside.
+BF:Beep bo bop

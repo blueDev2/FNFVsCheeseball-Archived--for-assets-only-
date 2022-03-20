@@ -1,0 +1,3 @@
+Stage: 502
+Offset: 985
+Animation: 4676

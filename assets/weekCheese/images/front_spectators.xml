@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="front_spectators.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bop0000" x="36" y="27" width="1648" height="459" frameX="0" frameY="0" frameWidth="1648" frameHeight="459"/>
+	<SubTexture name="bop0001" x="36" y="585" width="1648" height="459" frameX="0" frameY="0" frameWidth="1648" frameHeight="459"/>
+	<SubTexture name="bop0002" x="36" y="585" width="1648" height="459" frameX="0" frameY="0" frameWidth="1648" frameHeight="459"/>
+	<SubTexture name="bop0003" x="36" y="585" width="1648" height="459" frameX="0" frameY="0" frameWidth="1648" frameHeight="459"/>
+	<SubTexture name="bop0004" x="36" y="1150" width="1648" height="459" frameX="0" frameY="0" frameWidth="1648" frameHeight="459"/>
+	<SubTexture name="bop0005" x="36" y="1150" width="1648" height="459" frameX="0" frameY="0" frameWidth="1648" frameHeight="459"/>
+	<SubTexture name="bop0006" x="36" y="1150" width="1648" height="459" frameX="0" frameY="0" frameWidth="1648" frameHeight="459"/>
+</TextureAtlas>

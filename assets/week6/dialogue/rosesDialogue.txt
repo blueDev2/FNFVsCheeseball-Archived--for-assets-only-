@@ -1,0 +1,9 @@
+Music:Null
+Boxtype:weeb/pixelUI/dialogueBox-senpaiMad
+Characters:
+BF:Right,BLACK,weeb/bfPortrait
+Senpai:Left,BLUE,weeb/senpaiPortrait
+Dialogue:
+Senpai:Not bad for an ugly worm.
+Senpai:But this time I'll rip your nuts off right after your girlfriend finishes gargling mine.
+BF:Bop beep be be skdoo bep
